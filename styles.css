@@ -1,0 +1,25 @@
+body{
+	background-color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:white;
+}
+
+.buttons{
+	height: 30px;
+	border:0;
+	font-weight: bold;
+}
+
+.buttons:hover{
+	background-color: black;
+	color:white;
+	cursor: pointer;
+}
+
+
+.table td ,th, table{
+	border:2px black solid;
+	border-collapse: collapse;
+	padding: 7px;
+}
